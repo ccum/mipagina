@@ -1,6 +1,6 @@
 # Mi Página Web
 
-![N|Solid](https://www.bbvacontinental.pe/fbin/mult/logoperu_tcm1105-418187.png)
+![N|Solid](https://www.bbvacontinental.pe/fbin/mult/)
 
 Proyecto de inicio para clases de Git, se tocarán los siguientes puntos:
 
